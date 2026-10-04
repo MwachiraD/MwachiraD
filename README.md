@@ -1,39 +1,73 @@
-# Wachira Dennis
+# Dennis Wachira
 
-I'm a self-driven full-stack web developer with a growing interest in machine learning. I build clean, functional applications with attention to detail, accessibility, and real-world usability.
+**Backend Developer | Python**
 
-## Current Focus
+I build backend systems and APIs with Python, focusing on clean design, reliable data handling, and practical software engineering.
 
-- Building real-world tools with Django and JavaScript
-- Connecting REST APIs to frontend interfaces
-- Expanding into machine learning and data automation
+I'm particularly interested in **backend development, databases, APIs, concurrency, and Linux-based systems**.
 
-## Pinned Projects
+## What I'm Working On
 
-- **Scam Sentry**  
-  Scam reporting and awareness platform built with Django, REST API, and custom frontend. Includes evidence submission and scam database.
+* Building backend services with **Python, FastAPI, and Django**
+* Designing and testing **REST APIs**
+* Working with **PostgreSQL, SQLAlchemy, and relational databases**
+* Learning more about **concurrency, system design, and reliable backend systems**
+* Improving my understanding of Python and software engineering fundamentals
 
-- **Task Scheduler**  
-  A lightweight daily task tracker with 9PM reminders and CSV data export. Mobile-first design with offline support.
+## Featured Projects
 
-- **ScentNet** *(in progress)*  
-  An AI-powered project to classify scents using structured metadata and future machine learning integration.
+### [Clinic Booking System](https://github.com/MwachiraD/clinic-booking-system)
+
+A backend API for managing doctors, patients, working hours, and appointments.
+
+**FastAPI · SQLAlchemy · PostgreSQL · Pytest**
+
+Highlights:
+
+* Timezone-aware appointment scheduling
+* Appointment cancellation and rescheduling
+* Database constraint to prevent concurrent double-booking
+* Transaction handling and rollback
+* Automated tests for core booking behaviour
+
+### FastSearch
+
+A multithreaded TCP server for fast exact-line searches across large text files.
+
+**Python · Linux · TCP · Multithreading**
+
+Built to explore concurrency, file I/O, caching, and performance. The project includes benchmarking, automated tests, type checking, and Linux service configuration.
+
+### Scam Sentry
+
+A Django web application for reporting and identifying scams.
+
+**Python · Django · Django REST Framework · PostgreSQL**
+
+Includes scam reporting, evidence submission, search and filtering, moderation features, authentication, and a dashboard for managing reports.
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Backend:** Python, Django, Django REST Framework
-- **Tools:** Git, GitHub, Postman, VS Code, Linux
-- **Learning:** React, NumPy, Pandas, Scikit-learn
+**Languages:** Python, SQL, JavaScript
+
+**Backend:** Django, Django REST Framework, FastAPI, SQLAlchemy
+
+**Databases:** PostgreSQL, MySQL, SQLite
+
+**Tools:** Git, GitHub, Linux, Docker, Postman, Pytest
+
+**Currently learning:** Python internals, databases, concurrency, system design, and data structures & algorithms
 
 ## Open to Work
 
-I’m currently looking for opportunities in:
+I'm currently looking for opportunities in:
 
-- Full-stack web development  
-- Backend Python/Django roles  
-- Junior machine learning projects
+* Python backend development
+* Django / FastAPI development
+* Backend engineering
+* Graduate / junior software engineering roles
 
 ## Contact
 
-Email: denochira78@gmail.com
+📧 **[denochira78@gmail.com](mailto:denochira78@gmail.com)**
+
